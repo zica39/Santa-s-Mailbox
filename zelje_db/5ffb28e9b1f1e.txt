@@ -1,0 +1,1 @@
+{"ime":"Savo","prezime":"Savovi\u0107","grad":"Bijelo Polje","zelje":"\u017delim da svi iz moje porodice budu \u017eivi i zdravi, kao i ja. A da svi ljudi budu po\u0161teni, odnosno da po\u0161tuju pravila.","datum":"2021-01-10 17:18","regija":"Sjever","status":"Neispunjena"}

@@ -1,0 +1,1 @@
+{"ime":"Janko","prezime":"Jankovi\u0107","grad":"Pljevlja","zelje":"\u017delim da moja porodica i ja budemo sre\u0107ni i zdravi u Novoj godini. I da budemo dobri i po\u0161teni. Nadam se da \u0107e mi Deda Mraz ispod jelke ostaviti dron.","datum":"2021-01-10 17:15","regija":"Sjever","status":"Neispunjena"}

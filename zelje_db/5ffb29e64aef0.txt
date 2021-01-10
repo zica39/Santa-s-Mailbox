@@ -1,0 +1,1 @@
+{"ime":"Danilo","prezime":"Danilovi\u0107","grad":"Bar","zelje":"Za Novu godinu \u0107u po\u017eeleti da putujem svetom, da dobijem dres reprezentacija \u0160vedske, kao i pravu fudbalsku loptu, zlatni pehar i zlatnu kopa\u010dku. Valjda \u0107e sve to stati ispod jelke.","datum":"2021-01-10 17:23","regija":"Jug","status":"Neispunjena"}

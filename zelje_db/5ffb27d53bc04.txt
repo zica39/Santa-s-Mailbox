@@ -1,0 +1,1 @@
+{"ime":"Jelena","prezime":"Jankovic","grad":"Nik\u0161i\u0107","zelje":"Ja \u017eelim za mamu ljubimca. Ja \u017eelim za tatu nov avion. Ja \u017eelim za Dinu LOL lutkicu. Ja \u017eelim za dedu zdravlje. Ja \u017eelim za mene tvister.","datum":"2021-01-10 17:14","regija":"Centar","status":"Neispunjena"}
