@@ -175,7 +175,7 @@ if(isset($_SESSION['login']) or isset($_COOKIE['login'])){
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="./sve_zelje.php">
                                     <i class="fas fa-table"></i>
                                     <span class="bot-line"></span>Tabela zelja</a>
                             </li>
@@ -283,7 +283,7 @@ if(isset($_SESSION['login']) or isset($_COOKIE['login'])){
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="./sve_zelje.php">
                                 <i class="fas fa-table"></i>Tabela zelja</a>
                         </li>
                         <li>
